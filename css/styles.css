@@ -681,19 +681,6 @@ button:not(:disabled),
     }
 }
 
-/* rtl:begin:ignore */
-
-/* rtl:end:ignore */
-
-/* rtl:options: {
-  "autoRename": true,
-  "stringMap":[ {
-    "name"    : "prev-next",
-    "search"  : "prev",
-    "replace" : "next"
-  } ]
-} */
-
 .fixed-top {
     /**/
     position: fixed;
